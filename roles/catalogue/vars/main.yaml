@@ -1,5 +1,5 @@
 app_version: "1.0.0"
-nexus_url: http://172.31.34.61:8081
+nexus_url: http://34.226.215.163:8081
 group_id: "com/roboshop"
 nexus_username: admin
 nexus_password: admin@123
